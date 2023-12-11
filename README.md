@@ -14,7 +14,7 @@ ESP32 BLE UART demo: Integrate BLE communication with MIT App Inventor for seaml
 
 - Android App Preview
 
-    ![img](https://imgur.com/7CgImNE.png)
+    ![img](https://imgur.com/mUWyoGy.png)
 
 ## MIT App Inventor
 
@@ -28,4 +28,4 @@ ESP32 BLE UART demo: Integrate BLE communication with MIT App Inventor for seaml
 
 - Ble Connect/Read/Write/Subscribe
 
-    ![img](https://imgur.com/UYmsOJi.png)
+    ![img](https://imgur.com/XW1wMsx.png)
